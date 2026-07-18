@@ -1,0 +1,11 @@
+Day-01 --> Introduction to Python
+Day-02 --> Git/Github Setup
+Day-03 --> Number & String
+Day-04 --> List Start
+Day-05 --> List continue
+Day-06 --> Tuples
+Day-07 --> Dictionary
+Day-08 --> Conditional Statements
+Day-09 --> Loop Statements
+Day-10 --> User Defined Function
+Day-11 --> Built in function
