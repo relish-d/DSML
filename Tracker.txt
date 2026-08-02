@@ -1,0 +1,30 @@
+Day-01 --> Introduction to Python
+Day-02 --> Git/Github Setup
+Day-03 --> Number & String
+Day-04 --> List Start
+Day-05 --> List continue
+Day-06 --> Tuples
+Day-07 --> Dictionary
+Day-08 --> Conditional Statements
+Day-09 --> Loop Statements
+Day-10 --> User Defined Function
+Day-11 --> Built in function
+Day-12 -->  map, filter, reduce
+Day-13 --> args and kwagrs
+Day-14 --> python lambda, list comprehension and dictionary comprehension
+Day-15 --> recursion and decorator
+Day-16 --> Iterator , generator , Error handling
+Day-17 --> OOP basics
+Day-18 --> Overloading and inheritance
+Day-19 --> Methods overriding Encapsulation Abstraction
+Day-20 --> Encapsulation practise Abstraction practise Polymorphism
+Day-21 --> Duck typing , operator overloading,
+Day-22 -->
+Day-23 -->
+Day-24 -->
+Day-25 -->
+Day-26 -->
+Day-27 -->
+Day-28 -->
+Day-29 -->
+Day-30 -->
